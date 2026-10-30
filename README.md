@@ -1,5 +1,7 @@
 # Expo UI ArrangementView slot sizing reproduction
 
+Upstream issue: [expo/expo#52674](https://github.com/expo/expo/issues/52674).
+
 Minimal reproduction for `@expo/ui` **58.0.25**, the latest stable npm patch checked on
 2026-10-30. Uses Expo 58.0.21, React 19.3.0, and React Native 0.88.1.
 There is no dependency patch applied by installation.

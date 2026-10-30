@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Arrangement Repro",
+    "slug": "expo-arrangement-slot-repro",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.kockar96.arrangementrepro",
+      "supportsTablet": true
+    }
+  }
+}
